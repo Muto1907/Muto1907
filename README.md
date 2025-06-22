@@ -1,7 +1,7 @@
 ## Hi, I'm Mahmut Cinar 👋
  - ❤️ I love Go and C
  - 🔨 I'm interested in low-level and back-end programming
- - ⚡ I'm gonna learn C++ next and eventually Rust
+ - ⚡ I#m gonna learn Rust soon
  - 👹 Studying Japanese for fun
  - 🎓 Bachelor of Science in Computer Science, Ludwig Maximilian University of Munich (LMU)
 <!--
