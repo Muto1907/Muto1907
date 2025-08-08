@@ -1,5 +1,5 @@
 ## Hi, I'm Mahmut Cinar 👋
- - ❤️ I love Go, C and C++
+ - ❤️ I love Go, C/C++ and Java
  - 🔨 I'm interested in low-level and back-end programming
  - ⚡ I'm gonna learn Rust soon
  - 👹 Studying Japanese for fun
